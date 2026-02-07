@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FREELY",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-07T04:13:42.383703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let The Lioness In You Flow Freely",
+      "artist": "Yves Tumor",
+      "has_synced": false,
+      "path": "select/01_Let_The_Lioness_In_You_Flow_Freely_Yves_Tumor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fall so Freely Down",
+      "artist": "Deacon Blue",
+      "has_synced": true,
+      "path": "select/02_Fall_so_Freely_Down_Deacon_Blue.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freely",
+      "artist": "Devendra Banhart",
+      "has_synced": false,
+      "path": "select/03_Freely_Devendra_Banhart.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/04_FREELY_TOMORROW_Mitchie_M_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_FREELY_TOMORROW_Mitchie_M,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/06_FREELY_TOMORROW_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Freely tomorrow",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_Freely_tomorrow_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Freely Tomorrow (Hatsune Miku Magical Mirai 2014 Live)",
+      "artist": "Mitchie M feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/08_Freely_Tomorrow_(Hatsune_Miku_Magical_Mirai_2014_Live)_Mitchie_M_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_FREELY_TOMORROW_Mitchie_M_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Freely",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/10_Freely_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Freely",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/11_Freely_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/12_FREELY_TOMORROW_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M feat.初音ミク",
+      "has_synced": true,
+      "path": "select/13_FREELY_TOMORROW_Mitchie_M_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/14_FREELY_TOMORROW_-初音ミク「マジカルミライ_2014」Live-_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/15_FREELY_TOMORROW_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FREELY TOMORROW",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/16_FREELY_TOMORROW_Mitchie_M_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Speaking So Freely",
+      "artist": "Mobb Deep",
+      "has_synced": false,
+      "path": "select/17_Speaking_So_Freely_Mobb_Deep.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FREELY",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_FREELY_KMNZ.txt"
+    }
+  ]
+}
